@@ -19,5 +19,47 @@
     "size": 200,
     "price": 3400000,
     "text": "Located on Bulevardi, this historical residence was built in 1910 and showcases classic Jugendstil architecture."
+  },
+  {
+    "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": "Itäinen Puistotie 3, 00140, Helsinki",
+    "size": 80,
+    "price": 850000,
+    "text": "Charming apartment located near the waterfront, perfect for a small family or a couple looking for a cozy home."
+  },
+  {
+    "image": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": "Pohjoinen Rautatienkatu 10, 00100, Helsinki",
+    "size": 95,
+    "price": 950000,
+    "text": "This modern, compact apartment offers easy access to the city center and is ideal for young professionals."
+  },
+  {
+    "image": "https://images.pexels.com/photos/145480/pexels-photo-145480.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": "Lönnrotinkatu 15, 00120, Helsinki",
+    "size": 120,
+    "price": 980000,
+    "text": "A lovely apartment in a quiet neighborhood, close to amenities and public transportation."
+  },
+  {
+    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": "Mannerheimintie 30, 00100, Helsinki",
+    "size": 220,
+    "price": 1500000,
+    "text": "Spacious family home with a large garden, located in a prime area of Helsinki, perfect for luxury living."
+  },
+  {
+    "image": "https://images.pexels.com/photos/261146/pexels-photo-261146.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": "Hämeentie 60, 00500, Helsinki",
+    "size": 250,
+    "price": 1800000,
+    "text": "This modern villa boasts extensive living space and modern amenities, located in a serene environment."
+  },
+  {
+    "image": "https://images.pexels.com/photos/2102580/pexels-photo-2102580.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": "Kaivokatu 10, 00100, Helsinki",
+    "size": 300,
+    "price": 2100000,
+    "text": "A stunning property with expansive views, featuring luxurious interiors and ample space for entertaining."
   }
 ]
