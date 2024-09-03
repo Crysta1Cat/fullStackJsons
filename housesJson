@@ -1,72 +1,23 @@
 [
   {
-    "image": "house1.jpg",
+    "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "address": "Suistokatu 3, 00120, Helsinki",
     "size": 170,
     "price": 2904000,
     "text": "The Stone Palace in the Pyyn block, designed by Granholm and completed in 1896, remains one of the most beautiful buildings in Helsinki today."
   },
   {
-    "image": "house2.jpg",
+    "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "address": "Korkeavuorenkatu 12, 00120, Helsinki",
     "size": 150,
     "price": 2700000,
     "text": "This Art Nouveau building from 1904 is an architectural gem in the heart of Helsinki."
   },
   {
-    "image": "house3.jpg",
+    "image": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "address": "Bulevardi 7, 00120, Helsinki",
     "size": 200,
     "price": 3400000,
     "text": "Located on Bulevardi, this historical residence was built in 1910 and showcases classic Jugendstil architecture."
-  },
-  {
-    "image": "house4.jpg",
-    "address": "Aleksanterinkatu 22, 00170, Helsinki",
-    "size": 180,
-    "price": 3100000,
-    "text": "A beautiful building from 1920, located on Aleksanterinkatu, with a rich history and stunning views over the city."
-  },
-  {
-    "image": "house5.jpg",
-    "address": "Erottajankatu 4, 00130, Helsinki",
-    "size": 160,
-    "price": 2850000,
-    "text": "This charming building from 1908 on Erottajankatu has been fully renovated while preserving its original character."
-  },
-  {
-    "image": "house6.jpg",
-    "address": "Fredrikinkatu 19, 00120, Helsinki",
-    "size": 140,
-    "price": 2650000,
-    "text": "Built in 1912, this residence on Fredrikinkatu features elegant details typical of early 20th-century Helsinki architecture."
-  },
-  {
-    "image": "house7.jpg",
-    "address": "Lönnrotinkatu 14, 00120, Helsinki",
-    "size": 210,
-    "price": 3500000,
-    "text": "A grand 1925 building on Lönnrotinkatu with spacious interiors and a historic charm."
-  },
-  {
-    "image": "house8.jpg",
-    "address": "Pohjoisesplanadi 33, 00100, Helsinki",
-    "size": 190,
-    "price": 3300000,
-    "text": "Situated on Pohjoisesplanadi, this elegant building was constructed in 1898 and offers beautiful views of the Esplanade Park."
-  },
-  {
-    "image": "house9.jpg",
-    "address": "Kaisaniemenkatu 5, 00100, Helsinki",
-    "size": 130,
-    "price": 2400000,
-    "text": "This unique building on Kaisaniemenkatu, built in 1903, combines classical and Art Nouveau styles."
-  },
-  {
-    "image": "house10.jpg",
-    "address": "Mannerheimintie 10, 00100, Helsinki",
-    "size": 220,
-    "price": 3700000,
-    "text": "A landmark building on Mannerheimintie from 1915, featuring an impressive façade and luxurious interiors."
   }
 ]
